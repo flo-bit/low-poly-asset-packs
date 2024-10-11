@@ -2,18 +2,29 @@
 
 - 3 trees
 - 3 dead trees
-- 5 rocks
+- 5 stones
 - 3 pine trees
+- 7 bushes
+- 3 clouds
+- 3 flowers
+- 5 mushrooms
+- 3 plants
 
-GLB and blender files included.
+glb, fbx, obj and blender files included.
 
-Made by flo-bit, find me here:
+made by flo-bit, find me here:
 
 - [flo-bit.dev](https://flo-bit.dev)
 - [itch.io](https://flo-bit.itch.io/)
 - [twitter](https://x.com/flobit_dev)
 - [github](https://github.com/flo-bit)
 
-# License
+# changelog
 
-CC0, do whatever you want with it :)
+- 0.1: initial release: pine trees, stones, common trees, dead trees (2024-10-06)
+- 0.2: added more items: bushes, clouds, flowers, mushrooms, plants (2024-10-06)
+- 0.3: adjust poly count of bigger models, added fbx, obj version, fix naming inconsistencies (2024-10-07)
+
+# license
+
+cc0, do whatever you want with it :)
