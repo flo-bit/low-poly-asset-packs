@@ -27,4 +27,4 @@ made by flo-bit, find me here:
 
 # license
 
-cc0, do whatever you want with it :)
+cc0, do whatever you want with it, credits are appreciated though, also awesome if you write a comment if you're using it for a game :)
