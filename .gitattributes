@@ -1,0 +1,25 @@
+# Treat .blend, .fbx, .glb, .obj, and .mtl files as binary
+*.blend binary
+*.fbx binary
+*.glb binary
+*.obj text
+*.mtl text
+
+# Auto-detect text file encodings
+* text=auto
+
+# Handle line endings for cross-platform compatibility
+*.obj eol=lf
+*.mtl eol=lf
+
+# Mark certain large binary files as not diffable
+*.blend -diff -merge
+*.fbx -diff -merge
+*.glb -diff -merge
+
+# Custom attributes for specific tools (if you use Blender, for example)
+*.blend linguist-language=Binary
+*.fbx linguist-language=Binary
+*.glb linguist-language=Binary
+*.obj linguist-language=WavefrontOBJ
+*.mtl linguist-language=WavefrontMaterial
