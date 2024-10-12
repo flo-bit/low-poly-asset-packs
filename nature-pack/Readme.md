@@ -1,16 +1,18 @@
 # low poly nature pack
 
 - 3 trees
-- 3 dead trees
+- 6 dead trees
+- 3 tree stumps
 - 5 stones
 - 3 pine trees
 - 7 bushes
 - 3 clouds
 - 3 flowers
-- 5 mushrooms
+- 6 mushrooms
 - 3 plants
 - 3 palm trees
-- 3 grass
+- 4 grass
+- 1 camp fire
 
 glb, fbx, obj and blender files included.
 
@@ -27,6 +29,7 @@ made by flo-bit, find me here:
 - 0.2: added more items: bushes, clouds, flowers, mushrooms, plants (2024-10-06)
 - 0.3: adjust poly count of bigger models, added fbx, obj version, fix naming inconsistencies (2024-10-07)
 - 0.4: added palm trees and grass (2024-10-09)
+- 0.5: added camp fire, more dead trees, tree stumps, 1 new mushroom, 1 new grass (2024-10-13)
 
 # license
 
