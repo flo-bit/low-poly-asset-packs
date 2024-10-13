@@ -1,18 +1,25 @@
 # low poly nature pack
 
-- 3 trees
+62 vegetation items to create low poly nature scenes.
+
+## trees
+- 9 common trees (3 normal, 3 autumn, 3 winter)
 - 6 dead trees
 - 3 tree stumps
+- 9 pine trees (3 normal, 3 autumn, 3 winter)
+- 3 palm trees
+
+## small items
 - 5 stones
-- 3 pine trees
-- 7 bushes
-- 3 clouds
+- 8 bushes
 - 3 flowers
 - 6 mushrooms
 - 3 plants
-- 3 palm trees
 - 4 grass
+
+## other
 - 1 camp fire
+- 3 clouds
 
 glb, fbx, obj and blender files included.
 
@@ -30,6 +37,7 @@ made by flo-bit, find me here:
 - 0.3: adjust poly count of bigger models, added fbx, obj version, fix naming inconsistencies (2024-10-07)
 - 0.4: added palm trees and grass (2024-10-09)
 - 0.5: added camp fire, more dead trees, tree stumps, 1 new mushroom, 1 new grass (2024-10-13)
+- 0.6: added winter and autumn versions of common and pine trees (2024-10-14)
 
 # license
 
